@@ -9,5 +9,10 @@ i) a core backend that is developed with component-based architecture
 ii) a rich frontend that is developed with JSF and Prime Faces 
 iii) a book lending application to support the workflow of the library
 
+# Deploy project
 
+1. Clone the repo to your local machine
+2. Open with Netbeans 12.4
+3. Build and Deploy the project
+4. Once successfully deployed, users will be directly brought to the URL of the website
 
